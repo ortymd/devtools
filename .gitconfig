@@ -1,0 +1,10 @@
+[user]
+	email = polyarush.dmytro@gmail.com
+	name = polyarush
+[core]
+	editor = vim
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status

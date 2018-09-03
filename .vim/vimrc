@@ -1,0 +1,10 @@
+imap jj <Esc>
+set number
+set hlsearch
+set expandtab
+set shiftwidth=4
+set smartindent
+set tabstop=4
+set path+=./**
+set path+=~/Documents/sonic-buildimage/**
+set viminfo='50,<1000,s100,:100,n~/.vim/viminfo
